@@ -104,3 +104,14 @@ body{
     box-shadow: 0 0 20px skyblue;
 }
 
+.btn {
+    display: inline-block;
+    padding: 12px 28px;
+    background-color: skyblue;
+    border-radius: 40px;
+    box-shadow: 0 0 10px skyblue;
+    font-size: 16px;
+    color: #1f242d;
+    text-decoration: none;
+    font-weight: 500;
+}
