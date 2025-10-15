@@ -115,3 +115,15 @@ body{
     text-decoration: none;
     font-weight: 500;
 }
+
+.Click {
+    display: inline-block;
+    padding: 12px 28px;
+    background-color: transparent;
+    border-radius: 40px;
+    box-shadow: 0 0 10px white;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
