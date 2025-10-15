@@ -54,3 +54,12 @@ body{
     padding: 70px 10% 0;
 }
 
+.home-content{
+    max-width: 700px;
+}
+
+.home-content h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+
