@@ -63,3 +63,14 @@ body{
     font-weight: 600;
 }
 
+.home-content h2 p{
+    color: skyblue;
+}
+
+.home-content h1{
+    font-size: 40px;
+    font-weight: 500;
+    margin: -3;
+
+}
+
