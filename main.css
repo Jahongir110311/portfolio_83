@@ -40,3 +40,7 @@ body{
     transition: 2s;
 }
 
+.navbar a:hover {
+    color: skyblue;
+}
+
