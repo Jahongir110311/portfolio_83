@@ -23,3 +23,11 @@ body{
     z-index: 10;
 }
 
+.Porto{
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: default;
+}
+
