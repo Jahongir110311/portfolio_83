@@ -1,16 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:  sans-serif;
+    font-family: sans-serif;
 }
 
-body{
+body {
     background-color: #1f242d;
     color: #fff;
 }
 
-.header{
+.header {
     position: fixed;
     top: 0;
     left: 0;
@@ -23,7 +23,7 @@ body{
     z-index: 10;
 }
 
-.Porto{
+.Porto {
     font-size: 25px;
     color: #fff;
     text-decoration: none;
@@ -44,7 +44,7 @@ body{
     color: skyblue;
 }
 
-.home{
+.home {
     position: relative;
     width: 100%;
     height: 100vh;
@@ -54,35 +54,34 @@ body{
     padding: 70px 10% 0;
 }
 
-.home-content{
+.home-content {
     max-width: 700px;
 }
 
-.home-content h2{
+.home-content h2 {
     font-size: 30px;
     font-weight: 600;
 }
 
-.home-content h2 p{
+.home-content h2 p {
     color: skyblue;
 }
 
-.home-content h1{
+.home-content h1 {
     font-size: 40px;
     font-weight: 500;
     margin: -3;
-
 }
 
-.home-content p{
+.home-content p {
     font-size: 18px;
 }
 
-.home-img img{
+.home-img img {
     max-width: 450px;
 }
 
-.fontawesome a{
+.fontawesome a {
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -126,4 +125,39 @@ body{
     color: white;
     text-decoration: none;
     font-weight: 500;
+}
+
+.about {
+    background-color: #444;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px 10% 0;
+}
+
+.about-content {
+    max-width: 700px;
+}
+
+.about-content h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.about-content h1 {
+    font-size: 40px;
+    font-weight: 500;
+    margin: -3;
+}
+
+.about-content p {
+    font-size: 18px;
+}
+
+.about-img img {
+    max-width: 400px;
+    border-radius: 50%;
 }
