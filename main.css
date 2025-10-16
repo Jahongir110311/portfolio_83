@@ -161,3 +161,39 @@ body {
     max-width: 400px;
     border-radius: 50%;
 }
+
+.lesson-process {
+    background-color: darkgray;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px 10% 0;
+}
+
+.lesson-process-content {
+    max-width: 700px;
+}
+
+.lesson-process-content h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.lesson-process-content h1 {
+    font-size: 40px;
+    font-weight: 500;
+    margin: -3;
+}
+
+.lesson-process-content p {
+    font-size: 18px;
+}
+
+.lesson-process-img img {
+    max-width: 400px;
+    border-radius: 100px;
+}
+
